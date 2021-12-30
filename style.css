@@ -79,3 +79,9 @@ h1 {
     margin: 0 auto !important;
   }
 }
+}
+@media (max-width: 800px) {
+  main {
+    width: 97% !important;
+  }
+}
